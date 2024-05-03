@@ -12,6 +12,7 @@ List items owned by the school such as computers, tables, chairs, etc. This appl
   - [Migrate Data](#migrate-data)
   - [Public Disk](#public-disk)
   - [Running Application](#running-applicatian)
+- [Account](#account)
 - [Screenshots](#screenshots)
   - [Login](#login)
   - [Dashboard](#dashboard)
@@ -79,22 +80,20 @@ To serve the laravel app, you need to run the following command in the project d
 php artisan serve
 ```
 
+Visit
 ```bash 
-[http://127.0.0.1:8000](http://localhost:8000) (this may vary depending on the `HOSTNAME` and `PORT` values you set in the `.env` file).
+[http://127.0.0.1:8000]
 ```
 
-```bash
-
-  | email | password |
-  |---|---|---|
-  | admin@mail.com | password |
-```
+## Account
+  | email            | password |
+  | admin@mail.com   | password |
 
 ## Screenshots
 
 ### Login
 
-![Login]()
+![Login]( )
 
 ### Dashboard
 

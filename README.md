@@ -86,30 +86,29 @@ Visit
 ```
 
 ## Account
-  | email            | password |
   | admin@mail.com   | password |
 
 ## Screenshots
 
 ### Login
 
-![Login]( )
+![Login](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/login.png?raw=true)
 
 ### Dashboard
 
-![Dashboard]()
+![Dashboard](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/dashboard.png?raw=true)
 
 ### Sumber Barang
 
-![Sumber Dana]()
+![Sumber Dana](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/sumber-dana.png?raw=true)
 
 ### Data Ruangan
 
-![Data Ruangan]()
+![Data Ruangan](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/data-ruangan.png?raw=true)
 
 ### Data Barang
 
-![Data Barang]()
+![Data Barang](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/data-barang.png?raw=true)
 
 ## License
 

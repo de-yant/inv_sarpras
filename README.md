@@ -11,12 +11,12 @@ List items owned by the school such as computers, tables, chairs, etc. This appl
   - [Configure](#configure)
   - [Migrate Data](#migrate-data)
   - [Public Disk](#public-disk)
-  - [Running Application](#running-applicatian)
+  - [Running Application](#running-application)
 - [Account](#account)
 - [Screenshots](#screenshots)
   - [Login](#login)
   - [Dashboard](#dashboard)
-  - [Sumber Dana](#sumber-dana)
+  - [Sumber Barang](#sumber-barang)
   - [Data Ruangan](#data-ruangan)
   - [Data Barang](#data-barang)
 - [License](#license)
@@ -100,7 +100,7 @@ Visit
 
 ### Sumber Barang
 
-![Sumber Dana](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/sumber-dana.png?raw=true)
+![Sumber Barang](https://github.com/de-yant/sistem-inventarisasi-sarana-prasarana/blob/main/public/assets/img/sumber-dana.png?raw=true)
 
 ### Data Ruangan
 
